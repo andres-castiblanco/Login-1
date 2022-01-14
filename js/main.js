@@ -96,7 +96,7 @@ function clicked() {
 
 	else {
 		
-			window.alert("Incorrect username or password!");
+			/*window.alert("Incorrect username or password!");*/
 		
 		}
 
