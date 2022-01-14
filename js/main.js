@@ -94,11 +94,11 @@ function clicked() {
 	
 	} 
 
-	else {
+	/*else {
 		
 			window.alert("Incorrect username or password!");
 		
-		}
+		}*/
 
 }
 
