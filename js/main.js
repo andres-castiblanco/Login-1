@@ -32,7 +32,7 @@ function clicked() {
 			if(pass.value == corpass1) {
 			
 				/*window.alert("You are logged in as " + user.value);*/
-				window.open("https://andres-castiblanco.github.io/FExE/","_self");
+				window.open("https://andres-castiblanco.github.io/SF-2022/11001.html","_self");
 			
 			} else {
 			
