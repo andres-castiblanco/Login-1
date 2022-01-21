@@ -13,8 +13,8 @@ function clicked() {
 		if(pass.value == corpass) {
 		
 			/*window.alert("You are logged in as " + user.value);*/
-			window.open("https://andres-castiblanco.github.io/SF-2022","_self");
-		
+			window.open("https://andres-castiblanco.github.io/SF-2022/11001.html","_self");
+	
 		} else {
 		
 			window.alert("Usuario o clave incorrecta!, Vuelva a intentar");
