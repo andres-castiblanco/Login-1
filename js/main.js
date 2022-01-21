@@ -50,7 +50,7 @@ function clicked() {
 			if(pass.value == corpass2) {
 			
 				/*window.alert("You are logged in as " + user.value);*/
-				window.open("https://andres-castiblanco.github.io/CV/","_self");
+				window.open("https://app.powerbi.com/view?r=eyJrIjoiYjk0NGY1YWEtZGNkZi00NTU4LWE5ZjctZDY4ZDY5YjgwNDMwIiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9&pageName=ReportSection","_self");
 			
 			} else {
 			
