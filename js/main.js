@@ -136,8 +136,8 @@ function clicked() {
 		} 
 
 	/* Equipo Regional - Caribe */
-		var coruser7 = "---";
-		var corpass7 = "---";
+		var coruser7 = "felix.";
+		var corpass7 = "102938";
 
 		if(user.value == coruser7) {
 		
