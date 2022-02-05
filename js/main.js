@@ -13,7 +13,7 @@ function clicked() {
 		if(pass.value == corpass) {
 		
 			/*window.alert("You are logged in as " + user.value);*/
-			window.open("https://andres-castiblanco.github.io/SF-2022/EquipoNacional.html","_self");
+			window.open("https://andres-castiblanco.github.io/SF-2022/","_self");
 	
 		} else {
 		
@@ -49,7 +49,7 @@ function clicked() {
 		if(pass.value == corpass2) {
 			
 			/*window.alert("You are logged in as " + user.value);*/
-			window.open("https://andres-castiblanco.github.io/SF-2022/EquipoNacional.html","_self");
+			window.open("https://andres-castiblanco.github.io/SF-2022/","_self");
 			
 		} else {
 			
@@ -68,7 +68,7 @@ function clicked() {
 		if(pass.value == corpass3) {
 
 			/*window.alert("You are logged in as " + user.value);*/
-			window.open("https://andres-castiblanco.github.io/SF-2022/EquipoNacional.html","_self");
+			window.open("https://andres-castiblanco.github.io/SF-2022/","_self");
 
 		} else {
 
@@ -137,7 +137,7 @@ function clicked() {
 
 	/* Equipo Regional - Caribe */
 		var coruser7 = "felix.";
-		var corpass7 = "102938";
+		var corpass7 = "";
 
 		if(user.value == coruser7) {
 		
