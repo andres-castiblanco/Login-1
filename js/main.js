@@ -42,7 +42,7 @@ function clicked() {
 
 	/* Equipo Nacional  - Comite Estrategico */
 		var coruser2 = "luis.berrio";
-		var corpass2 = "----";
+		var corpass2 = "105748";
 
 	if(user.value == coruser2) {
 
@@ -61,7 +61,7 @@ function clicked() {
 
 	/* Equipo Nacional  - Comite Estrategico */
 		var coruser3 = "sara.moreno";
-		var corpass3 = "---";
+		var corpass3 = "193281";
 
 	if(user.value == coruser3) {
 
