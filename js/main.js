@@ -78,7 +78,7 @@ function clicked() {
 	}
 
 	/* Equipo Nacional  - Comite Estrategico */
-		var coruser4 = "johana.peters";
+		var coruser4 = "johanna.peters";
 		var corpass4 = "165748";
 
 	if(user.value == coruser4) {
