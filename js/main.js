@@ -301,7 +301,46 @@ function clicked() {
 			}
 		
 		} 
-	
+		
+		/* Dia D */
+		var coruser15 = "admin.diad";
+		var corpass15 = "132435";
+
+		if(user.value == coruser15) {
+		
+			if(pass.value == corpass15) {
+			
+				/*window.alert("You are logged in as " + user.value);*/
+				window.open("https://andres-castiblanco.github.io/SF-2022/diad_sf.html#/","_self");
+			
+			} else {
+			
+				window.alert("Usuario o clave incorrecta!, Vuelva a intentar!");
+			
+			}
+		
+		} 
+
+		/* Equipo Regional - Norte de Santander */
+		var coruser15 = "jorge.maldonado";
+		var corpass15 = "847251";
+
+		if(user.value == coruser15) {
+		
+			if(pass.value == corpass15) {
+			
+				/*window.alert("You are logged in as " + user.value);*/
+				window.open("https://andres-castiblanco.github.io/SF-2022/NorteSantander.html","_self");
+			
+			} else {
+			
+				window.alert("Usuario o clave incorrecta!, Vuelva a intentar!");
+			
+			}
+		
+		} 
+
+
 		var coruserx = "";
 		var corpassx = "";
 
