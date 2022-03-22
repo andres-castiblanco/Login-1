@@ -23,7 +23,7 @@ function clicked() {
 	} 
 	
 	/* Equipo Nacional  - Comite Estrategico */
-		var coruser1 = "---";
+		var coruser1 = "ramon.cardona";
 		var corpass1 = "758493";
 
 	if(user.value == coruser1) {
@@ -96,7 +96,7 @@ function clicked() {
 	}
 
 	/* Equipo Nacional  - Comite Estrategico */
-		var coruser5 = "----";
+		var coruser5 = "carlos.reyes";
 		var corpass5 = "887753";
 
 	if(user.value == coruser5) {
