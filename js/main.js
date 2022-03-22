@@ -23,7 +23,7 @@ function clicked() {
 	} 
 	
 	/* Equipo Nacional  - Comite Estrategico */
-		var coruser1 = "camilo.lema";
+		var coruser1 = "---";
 		var corpass1 = "758493";
 
 	if(user.value == coruser1) {
@@ -96,7 +96,7 @@ function clicked() {
 	}
 
 	/* Equipo Nacional  - Comite Estrategico */
-		var coruser5 = "alejandra.rodas";
+		var coruser5 = "----";
 		var corpass5 = "887753";
 
 	if(user.value == coruser5) {
@@ -304,7 +304,7 @@ function clicked() {
 		
 		/* Dia D */
 		var coruser16 = "admin.diad";
-		var corpass16 = "130322";
+		var corpass16 = "---";
 
 		if(user.value == coruser16) {
 		
