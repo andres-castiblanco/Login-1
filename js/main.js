@@ -41,7 +41,7 @@ function clicked() {
 	}
 
 	/* Equipo Nacional  - Comite Estrategico */
-		var coruser2 = "luis.berrio";
+		var coruser2 = "julian.rodriguez";
 		var corpass2 = "105748";
 
 	if(user.value == coruser2) {
