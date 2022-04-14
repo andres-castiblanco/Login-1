@@ -114,7 +114,7 @@ function clicked() {
 	}
 
 	/* Equipo Nacional  - Comite Estrategico */
-		var coruser6 = "francisco.escobar";
+		var coruser6 = "vedika.bandhi";
 		var corpass6 = "296472";
 
 	if(user.value == coruser6) {
@@ -132,7 +132,7 @@ function clicked() {
 	}
 
 	/* Equipo Nacional  - Comite Estrategico DIA D */
-		var coruser7 = "alejandro.vallejo";
+		var coruser7 = "daniel.hernandez";
 		var corpass7 = "103827";
 
 	if(user.value == coruser7) {
