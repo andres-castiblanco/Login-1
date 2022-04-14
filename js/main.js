@@ -60,7 +60,7 @@ function clicked() {
 		}
 
 	/* Equipo Nacional  - Comite Estrategico */
-		var coruser3 = "sara.moreno";
+		var coruser3 = "isabelita.mercado";
 		var corpass3 = "193281";
 
 	if(user.value == coruser3) {
