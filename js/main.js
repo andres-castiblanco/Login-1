@@ -5,7 +5,7 @@ function clicked() {
 	
 
 	/* Equipo Nacional  - Comite Estrategico  Alvaro, Camilo Lema, Luis H, Sara, Johanna Peters */
-		var coruser = "alvaro.castro";
+		var coruser = "alejandro.vallejo";
 		var corpass = "400297";
 	
 	if(user.value == coruser) {
