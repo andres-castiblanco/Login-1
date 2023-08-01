@@ -60,7 +60,7 @@ function clicked() {
 		}
 
 	/* Equipo Nacional  - Comite Estrategico */
-		var coruser3 = "isabelita.mercado";
+		var coruser3 = "alexandra.reyes";
 		var corpass3 = "193281";
 
 	if(user.value == coruser3) {
@@ -68,7 +68,7 @@ function clicked() {
 		if(pass.value == corpass3) {
 
 			/*window.alert("You are logged in as " + user.value);*/
-			window.open("https://andres-castiblanco.github.io/SF-2022/","_self");
+			window.open("https://andres-castiblanco.github.io/SF-2022/jsr23-mov.html","_self");
 
 		} else {
 
