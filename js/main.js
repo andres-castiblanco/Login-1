@@ -40,7 +40,7 @@ function clicked() {
 		}
 	}
 
-	/* Equipo Nacional  - Comite Estrategico */
+	/* Equipo General  - Comite Estrategico */
 		var coruser2 = "julian.rodriguez";
 		var corpass2 = "105748";
 
@@ -59,8 +59,8 @@ function clicked() {
 
 		}
 
-	/* Equipo Nacional  - Comite Estrategico */
-		var coruser3 = "alexandra.reyes";
+	/* Equipo Movilizacion-Territorial  - Comite Estrategico */
+		var coruser3 = "movilizacion.territorial";
 		var corpass3 = "193281";
 
 	if(user.value == coruser3) {
