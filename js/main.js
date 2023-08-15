@@ -78,7 +78,7 @@ function clicked() {
 	}
 
 	/* Equipo Nacional  - Comite Estrategico */
-		var coruser4 = "johanna.peters";
+		var coruser4 = "programatico";
 		var corpass4 = "165748";
 
 	if(user.value == coruser4) {
@@ -86,7 +86,7 @@ function clicked() {
 		if(pass.value == corpass4) {
 
 			/*window.alert("You are logged in as " + user.value);*/
-			window.open("https://andres-castiblanco.github.io/SF-2022/","_self");
+			window.open("https://docs.google.com/document/d/1--K7fku9ecUQbIEG0-RNWMdAgAj_SbaSWYJX6DpRWJo/edit?usp=sharing","_self");
 
 		} else {
 
