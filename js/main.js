@@ -41,8 +41,8 @@ function clicked() {
 	}
 
 	/* Equipo General  - Comite Estrategico */
-		var coruser2 = "julian.rodriguez";
-		var corpass2 = "105748";
+		var coruser2 = "electoral";
+		var corpass2 = "104352";
 
 	if(user.value == coruser2) {
 
