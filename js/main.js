@@ -86,7 +86,7 @@ function clicked() {
 		if(pass.value == corpass4) {
 
 			/*window.alert("You are logged in as " + user.value);*/
-			window.open("https://drive.google.com/file/d/1EEy-g7UZpisnqGYSbvntKaPpOQcv54DQ/view?usp=sharing","_self");
+			window.open("https://drive.google.com/file/d/1EEy-g7UZpisnqGYSbvntKaPpOQcv54DQ/view?usp=drive_link","_self");
 
 		} else {
 
