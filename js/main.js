@@ -49,7 +49,7 @@ function clicked() {
 		if(pass.value == corpass2) {
 			
 			/*window.alert("You are logged in as " + user.value);*/
-			window.open("https://andres-castiblanco.github.io/SF-2022/jrs23.html","_self");
+			window.open("https://andres-castiblanco.github.io/SF-2022/jrs23v2.html","_self");
 			
 		} else {
 			
